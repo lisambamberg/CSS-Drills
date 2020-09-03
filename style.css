@@ -1,3 +1,12 @@
 body {
     font-family: Georgia, serif;
+    background-color:#d3d3d3;
+}
+
+h2, p, .readme-wrapper {
+    text-align: center;
+}
+
+a {
+    border: solid;
 }
