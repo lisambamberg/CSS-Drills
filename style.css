@@ -8,5 +8,18 @@ h2, p, .readme-wrapper {
 }
 
 a {
+    color: maroon;
     border: solid;
+    text-decoration: none;
 }
+
+a:hover {
+    cursor: pointer;
+    font: bold;
+    color: green;
+  }
+
+  span {
+      color: purple;
+      font-weight: bold;
+  }
