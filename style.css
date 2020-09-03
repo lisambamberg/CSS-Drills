@@ -58,3 +58,48 @@ a:hover {
     left: 60px;
     top: 40px;
   }
+
+  h1 {
+    color: chocolate;
+  }
+
+  .original {
+      color: orange;
+  }
+
+  .additional {
+      color: teal;
+  }
+
+  #rank1 {
+      color: red;
+  }
+
+  #rank2 {
+      color: yellow;
+  }
+
+  #rank3 {
+      color: green;
+  }
+
+  #rank4 {
+      color: blue;
+  }
+
+  #rank5 {
+       color: purple;
+  }
+
+  ul {
+      color: gray;
+      border: 2px solid black;
+  }
+
+  .star {
+      color: purple;
+  }
+
+  #wars {
+      color: orangered;
+  }
