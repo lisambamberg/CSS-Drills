@@ -28,8 +28,9 @@ a:hover {
     margin: 0;
     padding: 0;
     border: solid black;
-    border-radius: 20%;
+    border-radius: 5%;
     width: 30em;
+    display: block;
   }
 
   #box1 {
@@ -46,4 +47,14 @@ a:hover {
 
   #box4 {
       background-color: #add8e6;
+  }
+
+  .epicImages {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: #cc99ff;
+    position: relative;
+    left: 60px;
+    top: 40px;
   }
