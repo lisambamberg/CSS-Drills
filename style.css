@@ -23,3 +23,27 @@ a:hover {
       color: purple;
       font-weight: bold;
   }
+
+  .boxes{
+    margin: 0;
+    padding: 0;
+    border: solid black;
+    border-radius: 20%;
+    width: 30em;
+  }
+
+  #box1 {
+      background-color: #b19cd9;
+  }
+
+  #box2 {
+      background-color: #FFB6C1;
+  }
+
+  #box3 {
+      background-color: #FFFF99;
+  }
+
+  #box4 {
+      background-color: #add8e6;
+  }
